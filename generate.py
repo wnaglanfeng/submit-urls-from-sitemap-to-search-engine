@@ -4,8 +4,8 @@ import urllib
 import urllib.request
 import random
 
-site = 'https://blog.mhuig.top'
-sitemaps = ['/post-sitemap.xml','/page-sitemap.xml']
+site = 'http://www.fastobe.com'
+sitemaps = ['/sitemap.xml','/sitemap.txt']
 
 result = []
 bingData = {}
